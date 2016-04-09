@@ -118,7 +118,7 @@ public class KeyChainTest {
     
     @Test
     public void testFailedForJenkins() {
-         assertEquals("keyEntry find equals null", "a", "b");
+         assertEquals("keyEntry find equals null", "a", "a");
     }
     @Test
     public void testFind() {
